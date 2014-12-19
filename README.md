@@ -8,4 +8,5 @@ the Sofia University, and various contests
  * Sorting Algorithms - quicksort, mergesort, bucketsort, insertion sort, counting sort, etc
  * Search Algorithms - binary search, linear search, ternary search
  * Graph Algorithms - DFS, BFS, Dijkstra, Floyd-Warshall, Ford-Bellman, Streams, Topological Sort
+ * Dynamic Programming Algorithms (personally my favorites :)
  * And more
